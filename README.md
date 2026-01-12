@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Hey People. 
 - Game Designer based in the Netherlands.
 - I’ve a Bachelor's Degree in Game Technologies from Breda University of Applied Sciences
 - Working on small projects in my free time. Currently working on a Melee game inspired by Quake. 
