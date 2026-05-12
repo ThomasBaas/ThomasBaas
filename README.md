@@ -1,7 +1,7 @@
 ## Hey Hey People. 
-- Game Designer based in the Netherlands.
+- Technical Game Designer based in the Netherlands, currently working for White Tower Games. 
 - I’ve a Bachelor's Degree in Game Technologies from Breda University of Applied Sciences
-- Working on small projects in my free time. Currently working on a Melee game inspired by Quake. 
+- Working on a small Multiplayer game in my free time. 
 
 
 <!--
